@@ -48,7 +48,7 @@ public class PlayerController : MonoBehaviour
             ITakeDamage enemigo = col.GetComponent<ITakeDamage>();
             if (enemigo != null)
             {
-                enemigo.RecibirDanio(10);
+                enemigo.RecibirDanio(1);
                 break;
             }
         }
