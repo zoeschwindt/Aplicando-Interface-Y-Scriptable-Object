@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Negro
   m_EditorClassIdentifier: 
   nombre: Negro
-  vida: 0
-  saludo: Go fuck yourself
+  vida: 4
+  saludo: You're a joke
